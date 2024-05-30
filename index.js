@@ -1,1 +1,2 @@
 const sum = () => {}
+const substract = () => {}
